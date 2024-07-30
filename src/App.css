@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+*{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.App {
+  height: 100vh;
+  overflow: hidden;
+  text-align: center; 
+  /* background-color: grey; */
+  background: radial-gradient(circle at center, #a7a6a6, #6e6d6d, #272626); 
+}
+
+.bi-scissors{
+font-size: 10px;padding:  2px 0px 2px 0px;}
